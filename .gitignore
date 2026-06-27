@@ -1,0 +1,7 @@
+# Windows / OneDrive system files
+Thumbs.db
+desktop.ini
+
+# Editor & IDE folders
+.vscode/
+.cursor/
