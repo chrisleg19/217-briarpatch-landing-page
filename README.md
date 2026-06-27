@@ -42,7 +42,7 @@ Landing Page Site/
 | Pets | Up to 2, max 60 lbs each; $350 first / $150 second (non-refundable) |
 | Utilities | Tenant pays all |
 | Garage | 2 spaces (confirmed) |
-| Pre-screening form | https://forms.gle/oTNWTSydEiBggQ37A |
+| Pre-screening form | https://docs.google.com/forms/d/e/1FAIpQLSd4HCCBHfHP5qSLWcfCCc9Hl_EybYRiT3BY14VlRrsjiHlTXw/viewform?usp=header |
 
 ## Preview locally (Windows)
 
