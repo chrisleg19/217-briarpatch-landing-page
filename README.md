@@ -33,16 +33,16 @@ Landing Page Site/
 
 | Item | Value |
 |------|-------|
-| Rent | $1,900 / month |
-| Security deposit | $1,900 |
+| Rent | $1,795 / month |
+| Security deposit | $1,795 |
 | Lease term | 12-month minimum |
 | Availability | Available now |
 | Move-in admin fee | $150 (approved tenant) |
-| Application fee | $100 per adult (RentSpree) |
+| Application fee | $50 per adult (RentSpree) |
 | Pets | Up to 2, max 60 lbs each; $350 first / $150 second (non-refundable) |
 | Utilities | Tenant pays all |
 | Garage | 2 spaces (confirmed) |
-| Pre-screening form | https://docs.google.com/forms/d/e/1FAIpQLSd4HCCBHfHP5qSLWcfCCc9Hl_EybYRiT3BY14VlRrsjiHlTXw/viewform?usp=header |
+| Pre-screening form | https://forms.gle/e8QmfasBehbWWntj8 |
 
 ## Preview locally (Windows)
 
@@ -113,7 +113,7 @@ path you asked for.
 
 - [ ] Open the live URL on a phone (not just desktop)
 - [ ] Tap "Start Pre-Screening Form" → confirm the Google Form opens
-- [ ] Confirm the Google Form rent/terms say **$1,900** (not an old price)
+- [ ] Confirm the Google Form rent/terms say **$1,795** (not an old price)
 - [ ] Submit a test response and confirm you receive the Google Forms notification
 - [ ] Verify contact info in the footer (LLG Leasing, 404-590-0295)
 - [ ] Confirm school zoning with the district/broker if you want it displayed
