@@ -15,7 +15,8 @@ account and puts everything on one screen:
   SMS with a pre-filled message.
 - **Overview** - counts and recent activity for all of the above in one place.
 
-It reuses the same forest-green + brass brand as the landing page.
+This is a standalone web app (its own repository, its own website). It shares a
+forest-green + brass visual style but is fully independent of any other site.
 
 ---
 
@@ -25,7 +26,6 @@ You do **not** need any accounts or keys to see how it works. Out of the box the
 app runs in **demo mode** with realistic sample data.
 
 ```bash
-cd dashboard
 npm install
 npm run dev
 ```
@@ -142,17 +142,17 @@ SUPABASE_SERVICE_ROLE_KEY=...
 
 ## Deploying (Vercel, free)
 
-1. Push this repo to GitHub (already done if you're reading this on GitHub).
-2. At https://vercel.com, **New Project > Import** this repo. Set the
-   **Root Directory** to `dashboard`.
+1. Push this repository to GitHub.
+2. At https://vercel.com, **New Project > Import** this repository. Leave the
+   **Root Directory** as the default (this project is at the repo root).
 3. Add all the variables from your `.env.local` under **Settings > Environment
    Variables**. Set `AUTH_URL` and `NEXTAUTH_URL` to your Vercel URL.
 4. Back in Google Cloud Credentials, add
    `https://YOUR-VERCEL-URL/api/auth/callback/google` to the redirect URIs.
 5. Deploy. Visit the URL and sign in.
 
-The existing static landing page at the repo root is unaffected and keeps its
-own GitHub Pages deployment.
+This app is completely standalone - it has its own repository and its own
+website, independent of any other site you run.
 
 ---
 
